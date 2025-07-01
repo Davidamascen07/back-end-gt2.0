@@ -1,0 +1,143 @@
+# 📋 Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+pnpm-debug.log*
+
+# 🏃‍♂️ Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# 📊 Coverage directory used by tools like istanbul
+lib-cov
+coverage
+*.lcov
+.nyc_output
+
+# 🔧 Build tools cache
+.grunt
+.rpt2_cache/
+.rts2_cache_cjs/
+.rts2_cache_es/
+.rts2_cache_umd/
+
+# 📦 Dependency directories
+node_modules/
+jspm_packages/
+bower_components/
+
+# 📝 TypeScript
+typings/
+*.tsbuildinfo
+*.d.ts.map
+
+# 🗂️ Package managers
+.npm
+.yarn
+.pnp
+.pnp.js
+yarn-error.log
+.yarn-integrity
+.pnpm-debug.log*
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# 🔍 ESLint
+.eslintcache
+
+# 📚 Optional REPL history
+.node_repl_history
+
+# 📤 Output of 'npm pack'
+*.tgz
+
+# 🌍 Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+.env.staging
+
+# ⚡ Build outputs
+build/
+dist/
+.next/
+.nuxt/
+.vuepress/dist/
+
+# 🗄️ Database files
+*.sqlite
+*.sqlite3
+*.db
+*.db-shm
+*.db-wal
+
+# 📁 Uploads & Media
+uploads/
+public/uploads/
+storage/
+temp/
+tmp/
+
+# 🚀 Deployment
+.serverless/
+.vercel/
+.netlify/
+
+# 🎯 Cache directories
+.cache/
+.parcel-cache/
+.fusebox/
+
+# 🧪 Testing
+coverage/
+.nyc_output/
+junit.xml
+test-results/
+
+# 🔧 IDE & Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*.sublime-workspace
+*.sublime-project
+.atom/
+
+# 📱 OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# 🚫 Backup files
+*.bak
+*.backup
+*.old
+*~
+
+# 📋 Documentation builds
+docs/_build/
+site/
+
+# 🔐 Security & Secrets
+*.pem
+*.key
+*.crt
+*.csr
+.secrets/
+
+# 🎭 Local development
+.local/
+.tmp/
