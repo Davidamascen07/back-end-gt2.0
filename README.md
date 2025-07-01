@@ -398,7 +398,7 @@ copies or substantial portions of the Software.
 
 <div align="center">
 
-**Desenvolvido com ❤️ por [Seu Nome](https://github.com/seu-usuario)**
+**Desenvolvido com ❤️ por [David Damasceno](https://github.com/Davidamascen07))**
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seu-usuario)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
